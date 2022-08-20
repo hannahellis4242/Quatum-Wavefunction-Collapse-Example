@@ -1,0 +1,23 @@
+{
+  "name": "quatum-wavefunction-collapse-example",
+  "version": "1.0.0",
+  "description": "Little play with some Quantuma Wavefunction Collape generated tile maps",
+  "main": "index.html",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hannahellis4242/Quatum-Wavefunction-Collapse-Example.git"
+  },
+  "author": "Hannah Ellis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hannahellis4242/Quatum-Wavefunction-Collapse-Example/issues"
+  },
+  "homepage": "https://github.com/hannahellis4242/Quatum-Wavefunction-Collapse-Example#readme",
+  "devDependencies": {
+    "@types/node": "^18.7.8",
+    "typescript": "^4.7.4"
+  }
+}
